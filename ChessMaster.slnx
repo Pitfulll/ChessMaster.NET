@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ChessMaster.Api/ChessMaster.Api.csproj" />
+  <Project Path="ChessMaster.App/ChessMaster.App.csproj" />
+  <Project Path="ChessMaster.Core/ChessMaster.Core.csproj" />
+  <Project Path="ChessMaster.Tests/ChessMaster.Tests.csproj" />
+  <Project Path="JungleChess/JungleChess.csproj" />
+</Solution>

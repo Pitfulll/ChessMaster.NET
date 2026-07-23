@@ -1,0 +1,6 @@
+@JungleChess_HostAddress = http://localhost:5195
+
+GET {{JungleChess_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
